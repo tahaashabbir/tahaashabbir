@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @itstahaS
 - 👀 I’m interested in Coding.Like in Python,C# and Windows Form
 - 🌱 I’m currently A University Student.
-- 💞️ I’m looking to collaborate
 - 📫 You can reach me at mts.network010@gmail.com
 <!---
 itstahaS/itstahaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
